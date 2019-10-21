@@ -2,7 +2,7 @@ package com.bobohe;
 
 /**
  * @author blackcat
- * @Description:
+ * @Description: Trie树
  * @create 2019-07-27 15:35
  */
 public class Trie {
